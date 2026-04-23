@@ -1,0 +1,53 @@
+
+
+                1.  .gitignore 
+                    #Python
+                    #Virtual Environment
+                    #jupyter
+                    #Data
+                    #Models
+                    #Logs
+                    #IDE
+                    #Environment Variable
+                    #OS Files
+
+                2. README.md
+                   # Linear & Logistic Regression Task
+
+## 📌 Introduction
+This project demonstrates the implementation of **Linear Regression** and **Logistic Regression** using machine learning techniques. The main objective is to understand how these algorithms work on real datasets for both regression and classification problems.
+
+Linear Regression is used to predict continuous values by finding the best-fitting line between input and output variables. On the other hand, Logistic Regression is used for classification tasks where the output is categorical, such as binary outcomes (0 or 1).
+
+This project helps in understanding the difference between regression and classification models, their working principles, and their practical applications in data science and machine learning.
+
+## 🎯 Objectives
+- Implement Linear Regression for predicting continuous data
+- Implement Logistic Regression for classification problems
+- Compare model behavior and performance
+- Gain hands-on experience with supervised learning algorithms
+
+## 🛠️ Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## 📊 Project Workflow
+1. Data loading and preprocessing
+2. Splitting dataset into training and testing sets
+3. Applying Linear Regression model
+4. Applying Logistic Regression model
+5. Evaluating model performance
+6. Visualizing results
+
+## 📈 Results
+- Linear Regression was used for prediction tasks
+- Logistic Regression was used for classification accuracy
+- Model performance was evaluated using accuracy score and error metrics
+
+## 👤 Author
+Your Name  
+GitHub: https://github.com/your-username
